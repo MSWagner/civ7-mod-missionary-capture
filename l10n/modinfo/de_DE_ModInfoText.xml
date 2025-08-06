@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<LocalizedText>
+    <Replace Tag="LOC_MODULE_CAPTURE_MISSIONARY" Language="de_DE">
+			<Text>Missionare gefangen nehmen</Text>
+		</Replace>
+    <Replace Tag="LOC_MODULE_CAPTURE_MISSIONARY_DESC" Language="de_DE">
+      <Text>Aktiviere die Fähigkeit, feindliche Missionare im Kriegszustand gefangen zu nehmen. Missionare lassen sich nicht mehr stapeln, können aber ohne offene Grenzen weiterhin in fremde Länder reisen.</Text>
+		</Replace>
+	</LocalizedText>
+</Database>

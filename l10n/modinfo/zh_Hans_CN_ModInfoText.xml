@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<LocalizedText>
+    <Replace Tag="LOC_MODULE_CAPTURE_MISSIONARY" Language="zh_Hans_CN">
+			<Text>俘虏传教士</Text>
+		</Replace>
+    <Replace Tag="LOC_MODULE_CAPTURE_MISSIONARY_DESC" Language="zh_Hans_CN">
+      <Text>启用在战争期间俘虏敌方传教士的能力。传教士不能再叠加，但仍然可以在没有开放边界的情况下前往外国领土。</Text>
+		</Replace>
+	</LocalizedText>
+</Database>

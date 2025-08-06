@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<LocalizedText>
+    <Replace Tag="LOC_MODULE_CAPTURE_MISSIONARY" Language="ru_RU">
+			<Text>Захватить миссионеров</Text>
+		</Replace>
+    <Replace Tag="LOC_MODULE_CAPTURE_MISSIONARY_DESC" Language="ru_RU">
+      <Text>Позволяет захватывать вражеских миссионеров во время войны. Миссионеры больше не могут собираться в стопки, но по-прежнему могут путешествовать в чужие земли без открытых границ.</Text>
+		</Replace>
+	</LocalizedText>
+</Database>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<LocalizedText>
+    <Replace Tag="LOC_MODULE_CAPTURE_MISSIONARY" Language="zh_Hant_HK">
+			<Text>俘虜傳教士</Text>
+		</Replace>
+    <Replace Tag="LOC_MODULE_CAPTURE_MISSIONARY_DESC" Language="zh_Hant_HK">
+      <Text>啟用在戰爭期間俘虜敵方傳教士的能力。傳教士不能再堆疊，但仍然可以在沒有開放邊界的情況下前往外國領土。</Text>
+		</Replace>
+	</LocalizedText>
+</Database>

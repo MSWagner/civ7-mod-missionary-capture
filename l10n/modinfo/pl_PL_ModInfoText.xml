@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<LocalizedText>
+    <Replace Tag="LOC_MODULE_CAPTURE_MISSIONARY" Language="pl_PL">
+			<Text>Schwytaj Misjonarzy</Text>
+		</Replace>
+    <Replace Tag="LOC_MODULE_CAPTURE_MISSIONARY_DESC" Language="pl_PL">
+      <Text>Umożliwia schwytanie wrogich misjonarzy podczas wojny. Misjonarze nie mogą już tworzyć stosów, ale nadal mogą podróżować do obcych ziem bez otwartych granic.</Text>
+		</Replace>
+	</LocalizedText>
+</Database>
