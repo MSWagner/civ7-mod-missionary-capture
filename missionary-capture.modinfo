@@ -6,7 +6,7 @@
 		<Description>LOC_MODULE_CAPTURE_MISSIONARY_DESC</Description>
 		<Authors>Michael Wagner</Authors>
 		<ShowInBrowser>1</ShowInBrowser>
-		<Package>MW's Capture Missionary</Package>
+		<Package>MW's Capture Missionaries</Package>
     <AffectsSavedGames>1</AffectsSavedGames>
     <EnabledByDefault>1</EnabledByDefault>
     <Version>1.0.0</Version>

@@ -2,7 +2,7 @@
 <Database>
 	<EnglishText>
 		<Row Tag="LOC_MODULE_CAPTURE_MISSIONARY">
-			<Text>Capture Missionary</Text>
+			<Text>Capture Missionaries</Text>
 		</Row>
     <Row Tag="LOC_MODULE_CAPTURE_MISSIONARY_DESC">
       <Text>Enable the ability to capture enemy missionaries while at war. Missionaries can no longer stack, but can still travel into foreign lands without open borders.</Text>
