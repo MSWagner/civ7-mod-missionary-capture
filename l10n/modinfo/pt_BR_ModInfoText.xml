@@ -5,7 +5,7 @@
 			<Text>Capturar Missionários</Text>
 		</Replace>
     <Replace Tag="LOC_MODULE_CAPTURE_MISSIONARY_DESC" Language="pt_BR">
-      <Text>Permite a capacidade de capturar missionários inimigos durante tempos de guerra. Missionários não podem mais ser empilhados, mas ainda podem viajar para terras estrangeiras sem fronteiras abertas.</Text>
+      <Text>Permite a capacidade de capturar missionários inimigos durante tempos de guerra. Missionários não podem mais ser empilhados. Existe a opção de configurar se eles podem continuar a viajar para terras estrangeiras sem fronteiras abertas ou não.</Text>
 		</Replace>
 	</LocalizedText>
 </Database>

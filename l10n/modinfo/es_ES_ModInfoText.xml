@@ -5,7 +5,7 @@
 			<Text>Capturar Misioneros</Text>
 		</Replace>
     <Replace Tag="LOC_MODULE_CAPTURE_MISSIONARY_DESC" Language="es_ES">
-      <Text>Habilita la capacidad de capturar misioneros enemigos durante la guerra. Los misioneros ya no pueden apilarse, pero aún pueden viajar a territorios extranjeros sin necesidad de fronteras abiertas.</Text>
+      <Text>Habilita la capacidad de capturar misioneros enemigos durante la guerra. Los misioneros ya no pueden apilarse. Existe la opción de configurar si pueden seguir viajando a territorios extranjeros sin necesidad de fronteras abiertas o no.</Text>
 		</Replace>
 	</LocalizedText>
 </Database>

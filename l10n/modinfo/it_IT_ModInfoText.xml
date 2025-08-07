@@ -5,7 +5,7 @@
 			<Text>Cattura Missionari</Text>
 		</Replace>
     <Replace Tag="LOC_MODULE_CAPTURE_MISSIONARY_DESC" Language="it_IT">
-      <Text>Abilita la capacità di catturare missionari nemici in tempo di guerra. I missionari non possono più essere impilati, ma possono comunque viaggiare in terre straniere senza bisogno di frontiere aperte.</Text>
+      <Text>Abilita la capacità di catturare missionari nemici in tempo di guerra. I missionari non possono più essere impilati. È possibile impostare se possono continuare a viaggiare in terre straniere senza bisogno di frontiere aperte o meno.</Text>
 		</Replace>
 	</LocalizedText>
 </Database>
