@@ -1,0 +1,43 @@
+# Mod de Captura de Missionários para Civilization VII
+
+## Recursos
+Assuma o controle da guerra religiosa com a capacidade de capturar missionários inimigos durante tempos de guerra!
+
+### Recursos Principais:
+- **Captura de Missionários Inimigos**: Durante a guerra, agora você pode capturar missionários inimigos com unidades militares
+- **Combate Missionário**: Missionários têm saúde que deve ser reduzida a zero para capturá-los
+- **Fronteiras Abertas**: Configure se os missionários precisam de fronteiras abertas para entrar em territórios estrangeiros (selecionável durante a configuração do jogo)
+
+### Mecânicas de Jogo Equilibradas
+- Missionários não podem mais se empilhar com outras unidades, exigindo um posicionamento mais estratégico
+- Cada missionário ocupa seu próprio espaço
+
+### Localização Completa
+Disponível em vários idiomas:
+- Inglês
+- Alemão (Deutsch)
+- Espanhol (Español)
+- Francês (Français)
+- Italiano (Italiano)
+- Japonês (日本語)
+- Coreano (한국어)
+- Polonês (Polski)
+- Português
+- Russo (Русский)
+- Chinês (Simplificado e Tradicional)
+
+### Gameplay Religioso Aprimorado
+Este mod adiciona profundidade estratégica à competição religiosa, permitindo que civilizações contraponham diretamente a atividade missionária por meio de ação militar durante tempos de guerra.
+
+## Como Capturar Missionários
+1. Você deve estar em guerra com a civilização que possui o missionário
+2. Ataque o missionário com uma unidade militar para reduzir sua saúde a zero
+3. Uma vez derrotado, o missionário será capturado
+
+## Compatibilidade
+- Deve ser compatível com a maioria dos outros mods
+
+## Suporte
+Para relatórios de bugs ou feedback, deixe um comentário ou visite meu repositório GitHub:
+
+https://github.com/MSWagner/civ7-mod-missionary-capture

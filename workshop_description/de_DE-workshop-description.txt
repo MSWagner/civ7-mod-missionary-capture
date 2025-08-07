@@ -1,0 +1,43 @@
+# Missionare Gefangennahme Mod für Civilization VII
+
+## Features
+Übernehmen Sie die Kontrolle über religiöse Kriegsführung mit der Fähigkeit, feindliche Missionare während des Krieges gefangen zu nehmen!
+
+### Kernfunktionen:
+- **Feindliche Missionare gefangen nehmen**: Während des Krieges können Sie jetzt feindliche Missionare mit militärischen Einheiten gefangen nehmen
+- **Missionarskampf**: Missionare haben Gesundheit, die auf Null reduziert werden muss, um sie zu fangen
+- **Offene Grenzen**: Konfigurieren Sie, ob Missionare offene Grenzen benötigen, um fremdes Territorium zu betreten (während der Spieleinrichtung wählbar)
+
+### Ausbalancierte Spielmechaniken
+- Missionare können nicht mehr mit anderen Einheiten gestapelt werden, was eine strategischere Positionierung erfordert
+- Jeder Missionar besetzt sein eigenes Feld
+
+### Vollständige Lokalisierung
+Verfügbar in mehreren Sprachen:
+- Englisch
+- Deutsch
+- Spanisch (Español)
+- Französisch (Français)
+- Italienisch (Italiano)
+- Japanisch (日本語)
+- Koreanisch (한국어)
+- Polnisch (Polski)
+- Portugiesisch (Português)
+- Russisch (Русский)
+- Chinesisch (Vereinfacht & Traditionell)
+
+### Verbessertes religiöses Gameplay
+Dieser Mod fügt dem religiösen Wettbewerb strategische Tiefe hinzu, indem Zivilisationen während des Krieges direkt gegen Missionsaktivitäten durch militärische Aktionen vorgehen können.
+
+## Wie man Missionare gefangen nimmt
+1. Sie müssen sich im Krieg mit der Zivilisation befinden, der der Missionar gehört
+2. Greifen Sie den Missionar mit einer militärischen Einheit an, um seine Gesundheit auf Null zu reduzieren
+3. Nach der Niederlage wird der Missionar gefangen genommen
+
+## Kompatibilität
+- Sollte mit den meisten anderen Mods kompatibel sein
+
+## Support
+Für Fehlerberichte oder Feedback, bitte hinterlassen Sie einen Kommentar oder besuchen Sie mein GitHub-Repository:
+
+https://github.com/MSWagner/civ7-mod-missionary-capture

@@ -1,0 +1,43 @@
+# Mod Przechwytywania Misjonarzy dla Civilization VII
+
+## Funkcje
+Przejmij kontrolę nad religijną wojną dzięki możliwości przechwytywania wrogich misjonarzy podczas wojny!
+
+### Główne Funkcje:
+- **Przechwytywanie Wrogich Misjonarzy**: Podczas wojny możesz teraz przechwytywać wrogich misjonarzy za pomocą jednostek wojskowych
+- **Walka Misjonarzy**: Misjonarze mają zdrowie, które musi zostać zredukowane do zera, aby ich przechwycić
+- **Otwarte Granice**: Skonfiguruj, czy misjonarze wymagają otwartych granic, aby wejść na obce terytoria (możliwość wyboru podczas konfiguracji gry)
+
+### Zbalansowana Mechanika Gry
+- Misjonarze nie mogą już łączyć się z innymi jednostkami, co wymaga bardziej strategicznego pozycjonowania
+- Każdy misjonarz zajmuje własne pole
+
+### Pełna Lokalizacja
+Dostępny w wielu językach:
+- Angielski
+- Niemiecki (Deutsch)
+- Hiszpański (Español)
+- Francuski (Français)
+- Włoski (Italiano)
+- Japoński (日本語)
+- Koreański (한국어)
+- Polski
+- Portugalski (Português)
+- Rosyjski (Русский)
+- Chiński (Uproszczony i Tradycyjny)
+
+### Ulepszony Religijny Gameplay
+Ten mod dodaje strategicznej głębi do rywalizacji religijnej, pozwalając cywilizacjom bezpośrednio przeciwdziałać działalności misjonarskiej poprzez akcje militarne podczas wojny.
+
+## Jak Przechwytywać Misjonarzy
+1. Musisz być w stanie wojny z cywilizacją, która jest właścicielem misjonarza
+2. Zaatakuj misjonarza jednostką wojskową, aby zredukować jego zdrowie do zera
+3. Po pokonaniu misjonarz zostanie przechwycony
+
+## Kompatybilność
+- Powinien być kompatybilny z większością innych modów
+
+## Wsparcie
+W przypadku raportów o błędach lub opinii, proszę zostawić komentarz lub odwiedzić moje repozytorium GitHub:
+
+https://github.com/MSWagner/civ7-mod-missionary-capture
