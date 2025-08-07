@@ -2,10 +2,10 @@
 <Database>
 	<LocalizedText>
     <Replace Tag="LOC_MODULE_CAPTURE_MISSIONARY" Language="fr_FR">
-			<Text>Capturer Missionnaires</Text>
+			<Text>Capturer Missionnaires (Frontières Ouvertes Requises)</Text>
 		</Replace>
     <Replace Tag="LOC_MODULE_CAPTURE_MISSIONARY_DESC" Language="fr_FR">
-      <Text>Permet de capturer les missionnaires ennemis en temps de guerre. Les missionnaires ne peuvent plus s'empiler, mais peuvent toujours voyager vers des terres étrangères sans avoir besoin de frontières ouvertes.</Text>
+      <Text>Permet de capturer les missionnaires ennemis en temps de guerre. Les missionnaires ne peuvent plus s'empiler et ne peuvent pas voyager vers des terres étrangères sans frontières ouvertes.</Text>
 		</Replace>
 	</LocalizedText>
 </Database>

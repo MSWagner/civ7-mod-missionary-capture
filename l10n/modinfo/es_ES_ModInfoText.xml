@@ -2,10 +2,10 @@
 <Database>
 	<LocalizedText>
     <Replace Tag="LOC_MODULE_CAPTURE_MISSIONARY" Language="es_ES">
-			<Text>Capturar Misioneros</Text>
+			<Text>Capturar Misioneros (Requiere Fronteras Abiertas)</Text>
 		</Replace>
     <Replace Tag="LOC_MODULE_CAPTURE_MISSIONARY_DESC" Language="es_ES">
-      <Text>Habilita la capacidad de capturar misioneros enemigos durante la guerra. Los misioneros ya no pueden apilarse, pero aún pueden viajar a territorios extranjeros sin necesidad de fronteras abiertas.</Text>
+      <Text>Habilita la capacidad de capturar misioneros enemigos durante la guerra. Los misioneros ya no pueden apilarse y no pueden viajar a territorios extranjeros sin fronteras abiertas.</Text>
 		</Replace>
 	</LocalizedText>
 </Database>

@@ -2,10 +2,10 @@
 <Database>
 	<LocalizedText>
     <Replace Tag="LOC_MODULE_CAPTURE_MISSIONARY" Language="it_IT">
-			<Text>Cattura Missionari</Text>
+			<Text>Cattura Missionari (Richiede Confini Aperti)</Text>
 		</Replace>
     <Replace Tag="LOC_MODULE_CAPTURE_MISSIONARY_DESC" Language="it_IT">
-      <Text>Abilita la capacità di catturare missionari nemici in tempo di guerra. I missionari non possono più essere impilati, ma possono comunque viaggiare in terre straniere senza bisogno di frontiere aperte.</Text>
+      <Text>Abilita la capacità di catturare missionari nemici in tempo di guerra. I missionari non possono più essere impilati e non possono viaggiare in terre straniere senza confini aperti.</Text>
 		</Replace>
 	</LocalizedText>
 </Database>

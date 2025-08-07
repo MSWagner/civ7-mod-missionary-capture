@@ -45,8 +45,8 @@ VALUES ('UNIT_CLASS_RELIGIOUS', 'UNIT_CLASS');
 INSERT OR IGNORE INTO UnitClass_Abilities (UnitAbilityType, UnitClassType)
 VALUES ('ABILITY_MISSIONARY_CAPTURE', 'UNIT_CLASS_RELIGIOUS');
 
-INSERT OR IGNORE INTO UnitClass_Abilities (UnitAbilityType, UnitClassType)
-VALUES ('ABILITY_ENTER_FOREIGN_LANDS', 'UNIT_CLASS_RELIGIOUS');
+-- INSERT OR IGNORE INTO UnitClass_Abilities (UnitAbilityType, UnitClassType)
+-- VALUES ('ABILITY_ENTER_FOREIGN_LANDS', 'UNIT_CLASS_RELIGIOUS');
 
 --------------------------------------------------------------
 -- UnitAbilities Table Update

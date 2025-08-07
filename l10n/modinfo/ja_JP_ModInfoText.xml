@@ -2,10 +2,10 @@
 <Database>
 	<LocalizedText>
     <Replace Tag="LOC_MODULE_CAPTURE_MISSIONARY" Language="ja_JP">
-			<Text>宣教師を捕獲</Text>
+			<Text>宣教師を捕獲（開放国境が必要）</Text>
 		</Replace>
     <Replace Tag="LOC_MODULE_CAPTURE_MISSIONARY_DESC" Language="ja_JP">
-      <Text>戦時中に敵の宣教師を捕獲する能力を有効にします。宣教師はスタックできなくなりますが、開放国境なしでも外国の領土に移動できます。</Text>
+      <Text>戦時中に敵の宣教師を捕獲する能力を有効にします。宣教師はスタックできなくなり、開放国境なしでは外国の領土に移動できません。</Text>
 		</Replace>
 	</LocalizedText>
 </Database>
