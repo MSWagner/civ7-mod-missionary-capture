@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+    <Replace Tag="LOC_GROUPID_MWS_MISSIONARY_OPEN_BORDER_OPTIONS" Language="de_DE">
+      <Text>Missionar - Offene Grenzen</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_TYPE" Language="de_DE">
+      <Text>Missionar - Offene Grenzen</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_TYPE_DESC" Language="de_DE">
+      <Text>Wählen Sie aus, ob ein Abkommen über offene Grenzen erforderlich ist, damit Missionare das Territorium anderer Zivilisationen betreten können.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_NOT_REQUIRED" Language="de_DE">
+      <Text>Nicht erforderlich</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_NOT_REQUIRED_DESC" Language="de_DE">
+      <Text>Missionare können das Territorium anderer Zivilisationen ohne ein Abkommen über offene Grenzen betreten.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_REQUIRED" Language="de_DE">
+      <Text>Erforderlich</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_REQUIRED_DESC" Language="de_DE">
+      <Text>Missionare benötigen ein Abkommen über offene Grenzen, um das Territorium anderer Zivilisationen zu betreten.</Text>
+    </Replace>
+  </LocalizedText>
+</Database>

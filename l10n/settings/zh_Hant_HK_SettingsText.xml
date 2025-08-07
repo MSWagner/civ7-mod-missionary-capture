@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+    <Replace Tag="LOC_GROUPID_MWS_MISSIONARY_OPEN_BORDER_OPTIONS" Language="zh_Hant_HK">
+      <Text>傳教士 - 開放邊界</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_TYPE" Language="zh_Hant_HK">
+      <Text>傳教士 - 開放邊界</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_TYPE_DESC" Language="zh_Hant_HK">
+      <Text>選擇傳教士進入其他文明領土是否需要開放邊界協定。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_NOT_REQUIRED" Language="zh_Hant_HK">
+      <Text>不需要</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_NOT_REQUIRED_DESC" Language="zh_Hant_HK">
+      <Text>傳教士可以在沒有開放邊界協定的情況下進入其他文明的領土。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_REQUIRED" Language="zh_Hant_HK">
+      <Text>需要</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_REQUIRED_DESC" Language="zh_Hant_HK">
+      <Text>傳教士必須有開放邊界協定才能進入其他文明的領土。</Text>
+    </Replace>
+  </LocalizedText>
+</Database>

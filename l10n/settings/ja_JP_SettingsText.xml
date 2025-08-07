@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+    <Replace Tag="LOC_GROUPID_MWS_MISSIONARY_OPEN_BORDER_OPTIONS" Language="ja_JP">
+      <Text>宣教師 - オープンボーダー</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_TYPE" Language="ja_JP">
+      <Text>宣教師 - オープンボーダー</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_TYPE_DESC" Language="ja_JP">
+      <Text>宣教師が他の文明の領土に入るためにオープンボーダー協定が必要かどうかを選択します。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_NOT_REQUIRED" Language="ja_JP">
+      <Text>不要</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_NOT_REQUIRED_DESC" Language="ja_JP">
+      <Text>宣教師はオープンボーダー協定なしで他の文明の領土に入ることができます。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_REQUIRED" Language="ja_JP">
+      <Text>必要</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_REQUIRED_DESC" Language="ja_JP">
+      <Text>宣教師は他の文明の領土に入るためにオープンボーダー協定が必要です。</Text>
+    </Replace>
+  </LocalizedText>
+</Database>

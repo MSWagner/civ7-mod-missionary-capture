@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+    <Replace Tag="LOC_GROUPID_MWS_MISSIONARY_OPEN_BORDER_OPTIONS" Language="ru_RU">
+      <Text>Миссионер - Открытые границы</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_TYPE" Language="ru_RU">
+      <Text>Миссионер - Открытые границы</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_TYPE_DESC" Language="ru_RU">
+      <Text>Выберите, требуется ли соглашение об открытых границах для вхождения миссионеров на территорию других цивилизаций.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_NOT_REQUIRED" Language="ru_RU">
+      <Text>Не требуется</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_NOT_REQUIRED_DESC" Language="ru_RU">
+      <Text>Миссионеры могут входить на территорию других цивилизаций без соглашения об открытых границах.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_REQUIRED" Language="ru_RU">
+      <Text>Требуется</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_MISSIONARY_OPEN_BORDER_REQUIRED_DESC" Language="ru_RU">
+      <Text>Миссионерам необходимо соглашение об открытых границах для вхождения на территорию других цивилизаций.</Text>
+    </Replace>
+  </LocalizedText>
+</Database>
