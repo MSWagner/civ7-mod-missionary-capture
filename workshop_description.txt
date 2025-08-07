@@ -6,9 +6,9 @@ Take control of religious warfare with the ability to capture enemy missionaries
 ### Core Features:
 - **Capture Enemy Missionaries**: During wartime, you can now capture enemy missionaries with military units
 - **Missionary Combat**: Missionaries have health that must be reduced to zero to capture them
+- **Open Borders**: Configure whether missionaries require open borders to enter foreign territories (selectable during game setup)
 
 ### Balanced Gameplay Mechanics
-- Configure whether missionaries require open borders to enter foreign territories (selectable during game setup)
 - Missionaries can no longer stack with other units, requiring more strategic positioning
 - Each missionary occupies its own tile
 
