@@ -8,7 +8,7 @@ Take control of religious warfare with the ability to capture enemy missionaries
 - **Missionary Combat**: Missionaries have health that must be reduced to zero to capture them
 
 ### Balanced Gameplay Mechanics
-- Missionaries can still travel to foreign territories without open borders
+- Configure whether missionaries require open borders to enter foreign territories (selectable during game setup)
 - Missionaries can no longer stack with other units, requiring more strategic positioning
 - Each missionary occupies its own tile
 
@@ -38,4 +38,6 @@ This mod adds strategic depth to religious competition by allowing civilizations
 - Should be compatible with most other mods
 
 ## Support
-For bug reports or feedback, please leave a comment or visit our GitHub repository.
+For bug reports or feedback, please leave a comment or visit my GitHub repository:
+
+https://github.com/MSWagner/civ7-mod-missionary-capture

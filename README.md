@@ -11,7 +11,9 @@ This mod enhances religious warfare in Civilization VII by allowing players to c
 - **Strategic Positioning**: 
   - Missionaries can no longer stack with other units
   - Each missionary occupies its own tile, making positioning more important
-- **Border Travel**: Missionaries can still travel to foreign lands without requiring open borders
+- **Border Travel Options**:
+  - Choose whether missionaries require open borders to enter foreign territories
+  - Configurable during game setup
 
 ## Capturing Mechanics
 To capture an enemy missionary:
@@ -25,8 +27,9 @@ Subscribe to this mod in the Steam Workshop, or manually place the folder in you
 
 ## Usage
 1. Enable the mod when setting up a new game
-2. During gameplay, declare war on civilizations whose missionaries you wish to capture
-3. Target enemy missionaries with your military units
+2. During game setup, choose whether missionaries require open borders to enter foreign territories
+3. During gameplay, declare war on civilizations whose missionaries you wish to capture
+4. Target enemy missionaries with your military units
 
 ## Compatibility
 - Should work alongside most other mods
