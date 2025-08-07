@@ -13,16 +13,10 @@ VALUES ('ABILITY_MISSIONARY_CAPTURE', 'KIND_ABILITY');
 --------------------------------------------------------------
 UPDATE Units
 SET 
-    Name = 'LOC_UNIT_MISSIONARY_NAME',
-    Description = 'LOC_UNIT_MISSIONARY_DESCRIPTION',
-    BaseSightRange = 1,
-    BaseMoves = 4,
     UnitMovementClass = 'UNIT_MOVEMENT_CLASS_FOOT',
     Domain = 'DOMAIN_LAND',
     CoreClass = 'CORE_CLASS_MILITARY',
     FormationClass = 'FORMATION_CLASS_CIVILIAN',
-    SpreadCharges = 3,
-    ZoneOfControl = 0
 WHERE UnitType = 'UNIT_MISSIONARY';
 
 --------------------------------------------------------------

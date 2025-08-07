@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Mod id="mws-capture-missionary" version="1.0.0"
+<Mod id="mws-capture-missionary-open-borders" version="1.1.0"
 	xmlns="ModInfo">
 	<Properties>
 		<Name>LOC_MODULE_CAPTURE_MISSIONARY</Name>
 		<Description>LOC_MODULE_CAPTURE_MISSIONARY_DESC</Description>
 		<Authors>Michael Wagner</Authors>
 		<ShowInBrowser>1</ShowInBrowser>
-		<Package>MW's Capture Missionaries</Package>
+		<Package>MW's Capture Missionaries (Open Borders Required)</Package>
     <AffectsSavedGames>1</AffectsSavedGames>
     <EnabledByDefault>1</EnabledByDefault>
-    <Version>1.0.0</Version>
-		<URL>https://github.com/MSWagner/civ7-mod-missionary-capture</URL>
+    <Version>1.1.0</Version>
+		<URL>https://github.com/MSWagner/civ7-mod-missionary-capture/tree/open-borders-required</URL>
 	</Properties>
 	<Dependencies>
 		<Mod id="age-exploration" title="LOC_MODULE_AGE_EXPLORATION_NAME"/>
@@ -27,7 +27,7 @@
 		<ActionGroup id="capture-missionary-exploration" scope="game" criteria="exploration-age-current">
 			<Actions>
 				<UpdateDatabase>
-					<Item>data/capture-missionary.sql</Item>
+					<Item>data/capture-missionary-open-borders.sql</Item>
 				</UpdateDatabase>
 			</Actions>
 		</ActionGroup>
